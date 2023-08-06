@@ -1,38 +1,19 @@
-# create-svelte
+# SvelteKit MedusaJS Starter using TailwindCSS
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a WIP (Work in Progress) ecommerce store starter template written in SvelteKit for MedusaJS.
 
-## Creating a project
+# Installation
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+```
+git clone https://github.com/InderdeepBajwa/sveltekit-starter-medusa.git
 ```
 
-## Developing
+# Usage
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
+# Install node_modules
+pnpm install
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
+# Serve SveleteKit starter
+pnpm run dev
 ```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.

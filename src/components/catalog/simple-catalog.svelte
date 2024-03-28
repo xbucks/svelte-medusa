@@ -17,7 +17,7 @@
 </script>
 
 <div>
-	<ul class="grid gap-20">
+	<ul class="grid gap-20 lg:grid-cols-2 xl:grid-cols-3">
 		{#each products as product}
 			<li>
 				<SimpleProduct {product} />

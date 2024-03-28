@@ -1,11 +1,11 @@
 # SvelteKit MedusaJS Starter using TailwindCSS
 
-This is a WIP (Work in Progress) ecommerce store starter template written in SvelteKit for MedusaJS.
+This is a ecommerce store starter template written in SvelteKit for MedusaJS.
 
 # Installation
 
 ```
-git clone https://github.com/InderdeepBajwa/sveltekit-starter-medusa.git
+git clone https://github.com/xbucks/svelte-medusa.git
 ```
 
 # Usage
